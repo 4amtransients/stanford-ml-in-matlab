@@ -3,10 +3,10 @@
 clear ; close all; clc
 
 %% ==================== Part 1: Basic Function ====================
-% Complete warmUpExercise.m 
-fprintf('Running warmUpExercise ... \n');
+
+fprintf('Running warm up exercise ... \n');
 fprintf('5x5 Identity Matrix: \n');
-warmUpExercise()
+warmup()
 
 fprintf('Program paused. Press enter to continue.\n');
 pause;
