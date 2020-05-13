@@ -1,3 +1,2 @@
-Exercises from the Stanford course on machine learning
+Exercises from the Stanford course on machine learning in MATLAB
 
-https://www.coursera.org/learn/machine-learning/home/welcome
