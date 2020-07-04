@@ -44,7 +44,7 @@ Theta1_grad = Delta1/m;
 Theta2_grad = Delta2/m;
 
 
-% Add regularization to the gradients
+% Add regularization to all the gradients
 Theta1_r = Theta1;
 Theta1_r(:,1) = 0;
 Theta2_r = Theta2;
