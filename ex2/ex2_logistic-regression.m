@@ -44,7 +44,7 @@ fprintf('\nProgram paused. Press enter to continue.\n');
 pause;
 
 
-%% ============= Part 3: Optimizing using fminunc  =============
+%% ============= Part 3: Optimizing using fminunc  ==============
 
 options = optimset('GradObj', 'on', 'MaxIter', 400);
 
