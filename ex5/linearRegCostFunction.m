@@ -12,7 +12,7 @@ m = length(y); % number of training examples
 J = 0;
 grad = zeros(size(theta));
 
-% ====================== YOUR CODE HERE ======================
+% ====================== YOUR CODE HERE =====================
 % Instructions: Compute the cost and gradient of regularized linear
 %               regression for a particular choice of theta.
 %
